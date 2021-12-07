@@ -1,0 +1,14 @@
+{
+  "strftime": "https://raw.githubusercontent.com/samsonjs/strftime/master/strftime.js",
+  "@goosemod/patcher": "https://raw.githubusercontent.com/KeanuGooseMod/ModuleBuilder/main/moduleWrappers/patcher.js",
+  "@goosemod/webpack": "https://raw.githubusercontent.com/KeanuGooseMod/ModuleBuilder/main/moduleWrappers/webpack.js",
+  "@goosemod/logger": "https://raw.githubusercontent.com/KeanuGooseMod/ModuleBuilder/main/moduleWrappers/logger.js",
+  "@goosemod/reactUtils": "https://raw.githubusercontent.com/KeanuGooseMod/ModuleBuilder/main/moduleWrappers/reactUtils.js",
+  "@goosemod/toast": "https://raw.githubusercontent.com/KeanuGooseMod/ModuleBuilder/main/moduleWrappers/toast.js",
+  "@goosemod/settings": "https://raw.githubusercontent.com/KeanuGooseMod/ModuleBuilder/main/moduleWrappers/settings.js",
+  "moment": "https://raw.githubusercontent.com/moment/moment/develop/moment.js",
+  "bootstrap": "https://raw.githubusercontent.com/twbs/bootstrap/main/dist/js/bootstrap.bundle.js",
+  "jquery": "https://code.jquery.com/jquery-3.6.0.js",
+  "discord.js": "https://raw.githubusercontent.com/discordjs/discord.js/webpack/discord.12.5.3.min.js",
+  "discord-reply": "https://unpkg.com/discord-reply@0.1.2/index.js"
+}
