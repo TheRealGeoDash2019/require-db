@@ -10,5 +10,6 @@
   "bootstrap": "https://raw.githubusercontent.com/twbs/bootstrap/main/dist/js/bootstrap.bundle.js",
   "jquery": "https://code.jquery.com/jquery-3.6.0.js",
   "discord.js": "https://raw.githubusercontent.com/discordjs/discord.js/webpack/discord.12.5.3.min.js",
-  "discord-reply": "https://unpkg.com/discord-reply@0.1.2/index.js"
+  "discord-reply": "https://unpkg.com/discord-reply@0.1.2/index.js",
+  "axios": "https://cdn.jsdelivr.net/npm/axios"
 }
