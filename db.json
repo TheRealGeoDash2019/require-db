@@ -13,5 +13,6 @@
   "discord-reply": "https://unpkg.com/discord-reply@0.1.2/index.js",
   "axios": "https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js",
   "canvas-text-wrapper": "https://raw.githubusercontent.com/namniak/canvas-text-wrapper/master/canvas-text-wrapper.js",
-  "process": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/dummy_process.js"
+  "process": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/dummy_process.js",
+  "base64": "https://raw.githubusercontent.com/beatgammit/base64-js/master/base64js.min.js"
 }
