@@ -17,5 +17,6 @@
   "process": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/dummy_process.js",
   "base64": "https://raw.githubusercontent.com/beatgammit/base64-js/master/base64js.min.js",
   "sha256": "https://raw.githubusercontent.com/cryptocoinjs/sha256/master/lib/sha256.js",
-  "xterm": "https://unpkg.com/xterm@4.15.0/lib/xterm.js"
+  "xterm": "https://unpkg.com/xterm@4.15.0/lib/xterm.js",
+  "mathjs": "https://unpkg.com/mathjs@10.0.0/lib/browser/math.js"
 }
