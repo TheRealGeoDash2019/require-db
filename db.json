@@ -23,5 +23,7 @@
   "nekos.life": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/nekos.life.js",
   "superagent": "https://unpkg.com/superagent@6.1.0/dist/superagent.min.js",
   "@useragent/lib/regexps": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/useragent.lib.regexps.js",
-  "useragent": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/useragent.js"
+  "useragent": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/useragent.js",
+  "@yallist/iterator": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/yallist.iterator.js",
+  "yallist": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/yallist.js"
 }
