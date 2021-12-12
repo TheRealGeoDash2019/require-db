@@ -29,5 +29,8 @@
   "lru-cache": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/lru-cache.js",
   "inherits": "https://unpkg.com/inherits@2.0.4/inherits_browser.js",
   "util": "",
-  "@util/support/types": ""
+  "http": "",
+  "https": "",
+  "os": "",
+  "path": ""
 }
