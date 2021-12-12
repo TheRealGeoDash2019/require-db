@@ -1,5 +1,3 @@
-"use strict";
-
 /**
  * TL;DR: Don't touch this.
  *
