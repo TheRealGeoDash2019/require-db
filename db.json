@@ -28,9 +28,6 @@
   "yallist": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/yallist.js",
   "lru-cache": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/lru-cache.js",
   "inherits": "https://unpkg.com/inherits@2.0.4/inherits_browser.js",
-  "util": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/util.js",
-  "http": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/http.js",
-  "https": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/https.js",
-  "os": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/os.js",
-  "path": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/path.js"
+  "os": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/os.js"
+  "node-process": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/process.js"
 }
