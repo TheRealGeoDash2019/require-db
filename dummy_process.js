@@ -123,6 +123,15 @@ function cleanUpNextTick() {
     }
 };
 
+function Item(fun, array) {
+    this.fun = fun;
+    this.array = array;
+}
+
+Item.prototype.run = function () {
+    this.fun.apply(null, this.array);
+};
+
 module.exports = {
   versions: {
     node: '16.13.0',
