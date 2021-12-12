@@ -1,5 +1,3 @@
-'use strict';
-
 /**
  * This is where all the magic comes from, specially crafted for `useragent`.
  */
