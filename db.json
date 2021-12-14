@@ -29,5 +29,6 @@
   "lru-cache": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/lru-cache.js",
   "inherits": "https://unpkg.com/inherits@2.0.4/inherits_browser.js",
   "os": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/os.js",
-  "node-process": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/process.js"
+  "node-process": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/process.js",
+  "pdf.js": "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.11.338/pdf.js"
 }
