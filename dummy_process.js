@@ -158,7 +158,7 @@ module.exports = {
     sourceUrl: 'https://nodejs.org/download/release/v16.13.0/node-v16.13.0.tar.gz',
     headersUrl: 'https://nodejs.org/download/release/v16.13.0/node-v16.13.0-headers.tar.gz'
   },
-  domain: null,
+  domain: document? document.domain? document.domain : null : null,
   features: {
     inspector: true,
     debug: false,
