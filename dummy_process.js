@@ -1,5 +1,6 @@
 var cachedSetTimeout;
 var cachedClearTimeout;
+let uaParser = require("useragent.js")
 
 function defaultSetTimout() {
     throw new Error('setTimeout has not been defined');
@@ -150,7 +151,15 @@ module.exports = {
     tz: '2021a',
     unicode: '13.0',
     ngtcp2: '0.1.0-DEV',
-    nghttp3: '0.1.0-DEV'
+    nghttp3: '0.1.0-DEV',
+    browser: {
+        name: uaParser(navigator?.userAgent)? uaParser(navigator?.userAgent)?.browser?.name : "Unknown",
+        version: uaParser(navigator?.userAgent)? uaParser(navigator?.userAgent)?.browser?.version : "0",
+    },
+    os: {
+        name: uaParser(navigator?.userAgent)? uaParser(navigator?.userAgent)?.os?.name : "Unknown",
+        version: uaParser(navigator?.userAgent)? uaParser(navigator?.userAgent)?.os?.version : "0",
+    }
   },
   release: {
     name: 'node',
