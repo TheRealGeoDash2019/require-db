@@ -19,7 +19,6 @@
   "sha256": "https://raw.githubusercontent.com/cryptocoinjs/sha256/master/lib/sha256.js",
   "xterm": "https://unpkg.com/xterm@4.15.0/lib/xterm.js",
   "mathjs": "https://unpkg.com/mathjs@10.0.0/lib/browser/math.js",
-  "nekos-best.js": "https://unpkg.com/nekos-best.js@4.0.4/index.js",
   "nekos.life": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/nekos.life.js",
   "superagent": "https://unpkg.com/superagent@6.1.0/dist/superagent.min.js",
   "@useragent/lib/regexps": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/useragent.lib.regexps.js",
@@ -30,5 +29,6 @@
   "inherits": "https://unpkg.com/inherits@2.0.4/inherits_browser.js",
   "os": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/os.js",
   "node-process": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/process.js",
-  "pdf.js": "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.11.338/pdf.js"
+  "pdf.js": "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.11.338/pdf.js",
+  "useragent.js": "https://raw.githubusercontent.com/faisalman/ua-parser-js/master/dist/ua-parser.min.js"
 }
