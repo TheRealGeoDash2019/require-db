@@ -29,6 +29,7 @@
   "inherits": "https://unpkg.com/inherits@2.0.4/inherits_browser.js",
   "os": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/os.js",
   "node-process": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/process.js",
+  "geomusic.js": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/geomusicapi.js",
   "pdf.js": "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.11.338/pdf.js",
   "useragent.js": "https://raw.githubusercontent.com/faisalman/ua-parser-js/master/dist/ua-parser.min.js"
 }
