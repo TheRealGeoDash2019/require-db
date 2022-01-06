@@ -33,5 +33,6 @@
   "pdf.js": "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.11.338/pdf.js",
   "useragent.js": "https://raw.githubusercontent.com/faisalman/ua-parser-js/master/dist/ua-parser.min.js",
   "yturlparser.js": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/ytURLParser.js",
-  "ytdl-core": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/ytdl-core.js"
+  "ytdl-core": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/ytdl-core.js",
+  "crypto": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/crypto.js"
 }
