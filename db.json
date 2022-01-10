@@ -39,5 +39,6 @@
   "http": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/http.js",
   "https": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/https.js",
   "events": "https://raw.githubusercontent.com/browserify/events/main/events.js",
-  "jszip": "https://raw.githubusercontent.com/Stuk/jszip/master/dist/jszip.min.js"
+  "jszip": "https://raw.githubusercontent.com/Stuk/jszip/master/dist/jszip.min.js",
+  "encrypt-with-password": "https://raw.githubusercontent.com/TheRealGeoDash2019/require-db/main/remade_modules/encrypt-with-password.js"
 }
